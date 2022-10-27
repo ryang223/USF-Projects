@@ -1,0 +1,36 @@
+ryan@jim-thorpe:~/Documents/github/USF-projects/projects/learn_git_again$ git log
+commit b4688f1303a363ca8241648604d8ee97f625e971 (HEAD -> main, origin/main, origin/HEAD)
+Author: ryang223 <ryangoodwd@gmail.com>
+Date:   Thu Oct 27 12:52:06 2022 -0400
+
+    removing third.txt
+
+commit 4f24a563c16f5a96f7cd8360dce0238130508498
+Author: ryang223 <ryangoodwd@gmail.com>
+Date:   Thu Oct 27 12:50:49 2022 -0400
+
+    adding fourth.txt
+
+commit ed050401d6d5bd4f027b5182a15deaf4f9593104
+Author: ryang223 <ryangoodwd@gmail.com>
+Date:   Thu Oct 27 12:48:43 2022 -0400
+
+    adding third txt
+
+commit ecb620f92f39e95928dced4297a550ef9ce652c7
+
+1.mkdir learn_git_again
+2.cd learn_git_again
+3. touch third.txt
+4.git init
+5. add third.txt
+6.git commit -m "adding third.txt" third.txt
+7. git log
+8.mkdir fourth.txt
+9.add fourth.txt
+10.git commit -m "adding fourth.txt"
+11.rm third.txt
+12.add rm third.txt
+13. git commit -m "removing third.txt"
+14.git log  
+15. git config --list or -la
