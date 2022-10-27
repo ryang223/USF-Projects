@@ -5,3 +5,6 @@ Part 1 Answers:
  3. Git checkout changes to another branch   
  4. git branch -D to delete a branch with no warning
  5. When one person edits while another delets a file; or when two people make different changes to the same line of a file.
+
+
+ second branch commit 
