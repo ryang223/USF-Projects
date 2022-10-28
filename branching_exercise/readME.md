@@ -7,4 +7,4 @@ Part 1 Answers:
  5. When one person edits while another delets a file; or when two people make different changes to the same line of a file.
 
 
- second branch commit 
+ second branch commit, change in file
